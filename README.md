@@ -24,7 +24,7 @@ Evaluates bit error rate (BER) or decoding error probability.
 Supports comparison across different code rates using the same base graph and lifting size.
 
 This is Group Project for course CT216 and below names are the contributors for this project and we did the work together for this.
-RAIYANI RUDRA CHETANBHAI 
+# RAIYANI RUDRA CHETANBHAI 
 PRAJAPATI ANUSHKA 
 DWARKESH VAGHASIYA 
 GOTHI PRIYANSHI MUKESHBHAI 
@@ -34,3 +34,4 @@ PATEL APURV ASHOKBHAI
 VORA KRESHA MANOJBHAI 
 GAADHE JAYANSH MANUBHAI 
 AYUSH NAKUM
+
